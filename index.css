@@ -88,3 +88,18 @@ header {
 .comment {
   margin: 0;
 }
+
+.btn-like:hover,
+.btn-like:active {
+  content: url(images/icon-heart-red.png);
+}
+
+.btn-comment:hover,
+.btn-comment:active {
+  content: url(images/icon-comment-yellow.png);
+}
+
+.btn-share:hover,
+.btn-share:active {
+  content: url(images/icon-dm-blue.png);
+}
